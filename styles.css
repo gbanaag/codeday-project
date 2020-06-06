@@ -115,10 +115,18 @@ p {
   background-color: #3E92CC;
 }
 
+#stories-div {
+  background-color: white;
+}
+
 ul {
   font-family: 'Overpass', sans-serif;
 }
 
 html {
   scroll-behavior: smooth;
+}
+
+#featured {
+  color: black;
 }
