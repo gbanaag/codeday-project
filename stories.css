@@ -209,3 +209,19 @@ p {
   font-size: 100%;
   color: white;
 }
+
+.button {
+  background-color: #A3D9FF;
+  color: white;
+  font-size: 15px;
+  padding: 2%;
+  border: none;
+  font-family: 'Overpass', sans-serif;
+  margin: 5px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: #5a81bf;
+}
