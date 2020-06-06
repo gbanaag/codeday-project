@@ -127,6 +127,15 @@ html {
   scroll-behavior: smooth;
 }
 
+a {
+    text-decoration: none;
+    color: #0A2463;
+}
+
+a:hover {
+  color: #b0e7ff;
+}
+
 #featured {
   color: black;
 }
